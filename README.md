@@ -17,3 +17,8 @@ I also thought it would be pretty cool T-Shirt to wear at meet-ups.
 3. Create the shirt.
 
 To support this please [zap me](https://zapper.fun/zap?id=npub1marc26z8nh3xkj5rcx7ufkatvx6ueqhp5vfw9v5teq26z254renshtf3g0) or buy one from my store.
+
+#### Can I Buy A Zap Shirt?
+Yes. If you would like a shirt, hit me up on nostr
+
+https://primal.net/marc
