@@ -1,6 +1,8 @@
 # ZapShirts
 This is an idea I have to make t-shirts that are also bitcoin point-of-sale terminals. 
 
+![ZapShirt](https://github.com/Marc26z/ZapShirts/blob/main/zapThisShirt2-marc.png?raw=true)
+
 
 ## Create T-Shirt Point-Of-Sale
 The idea is to create a bitcoin point of sale on a T-shirt. You can use it to sell stickers at a conference or have a friend pay you back for dinner. It is only limited by your imagination.
